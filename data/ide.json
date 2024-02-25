@@ -1,0 +1,17 @@
+{
+    "vscode":       { "png":"https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/9e916501-8c34-4876-87ce-e1e954750660", "svg":"" },
+    "atom":         { "png":"https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/9092b683-a03f-47b6-bb9b-b7bea7248ec9", "svg":"" },
+    "sublime":      { "png":"", "svg":"" },
+    "notepad++":    { "png":"", "svg":"" },
+    "anaconda":     { "png":"https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/05aa3f68-e191-4bf1-bdc2-f9085ddb7777", "svg":"" },
+    "spyder":       { "png":"", "svg":"" },
+    "jupyter":      { "png":"https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/2a8e2cd7-6e56-4430-8954-0a63e378bdf2", "svg":"" },
+    "intellij":     { "png":"https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/1000ecb9-d387-49ea-85b9-301bc937019d", "svg":"" },
+    "pycharm":      { "png":"https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/ec20f4d7-d586-4a9c-93c2-4cc1401903ec", "svg":"" },
+    "matlab":       { "png":"https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/4372e83e-c3fa-43ef-a4d2-ac3410c2202b", "svg":"" },
+    "eclipse":      { "png":"https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/87e7009d-984c-4f4b-b22d-4c6b95860616", "svg":"" },
+    "electron":     { "png":"https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/83882fe0-0801-40f9-9cf4-139a0fa81315", "svg":"" },
+    "neovim":       { "png":"", "svg":"" },
+    "vim":          { "png":"https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/447a1642-fa09-4018-b586-a5ab6307bce9", "svg":"" },
+    "xcode":        { "png":"https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/7f50fbcc-fb62-4d78-947f-95a3cd4b9238", "svg":"" }
+}

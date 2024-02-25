@@ -1,0 +1,8 @@
+{
+    "brave":                { "png":"", "svg":"" },
+    "firefox":              { "png":"https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/30ac5beb-29ec-4c05-98f3-5ee53fed9480", "svg":"" },
+    "chrome":               { "png":"", "svg":"" },
+    "microsoft edge":       { "png":"", "svg":"" },
+    "chromium":             { "png":"", "svg":"" },
+    "internet explorer":    { "png":"", "svg":"" }
+}
