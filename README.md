@@ -32,9 +32,7 @@ Examples:
 - https://iconz.kushalkumarsaha.com/?javascript&julia&cassandra
 - https://iconz.kushalkumarsaha.com/?mariadb=all&instagram=svg
 
-
 <hr>
-
 
 ## :handshake: Contributions
 
