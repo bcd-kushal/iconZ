@@ -15,16 +15,17 @@ https://iconz.kushalkumarsaha.com/
 
 ## :sparkles: Features
 
-- **Console Data Decoration:** Beautify your console output by using decorators to highlight, format and structure data.
-- **Pre-defined Templates:** A collection of important templates to get started with, to put aside the worry of its UI.
-- **Supported Icons Library:** A collection of icons to use in your console scripts or outputs.
+- `svgs` and `pngs` for most used icons
+- `jsx` and `tsx` component svgs soon to roll out
+
+- full list of supported names at `/supported-list`
 
 A complete documentation will be out soon for the same.
 
 
 ## :sunflower: Usage
 
-Send a `/get` request with query parameters to <a href='https://iconz.kushalkumarsaha.com/'>this endpoint</a> 
+Send a `/GET` request with query parameters to <a href='https://iconz.kushalkumarsaha.com/'>this endpoint</a> 
 
 Examples:
 - https://iconz.kushalkumarsaha.com/?gatsby=svg&scss=all&sqlite=png
